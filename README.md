@@ -54,4 +54,4 @@ A aplicação vai subir por padrão em http://localhost:8080
 
 ## 👤 Autor
 
-Desenvolvido por Kenzo Nakatanicomo parte do aprendizado em Java e Spring Boot.
+Desenvolvido por Kenzo Nakatani como parte do aprendizado em Java e Spring Boot.
